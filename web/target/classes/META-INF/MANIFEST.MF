@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: web
+Implementation-Version: 1.0-SNAPSHOT
+Built-By: JAY
+Implementation-Vendor-Id: com.zuoqing.web
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/demo2/web/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
