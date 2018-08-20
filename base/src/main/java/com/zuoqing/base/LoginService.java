@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * Created by zuoqing on 2017/11/22.
  */
-public interface LoginService {
+public interface LoginService { 
 
     List<Menu> selectMenu();
 
