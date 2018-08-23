@@ -12,7 +12,6 @@ public interface LoginService {
 
     List<Menu> selectMenu();
     
-
     String login();
 
     User findUser();
